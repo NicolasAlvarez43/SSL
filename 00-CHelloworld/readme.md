@@ -6,6 +6,6 @@ desarrollo de un programa simple.
 de los trabajos posteriores.
 
 
-Configure MingW utilizando el archivo anexado al TP y Visual Studio Code como IDE
+Configure MingW utilizando el archivo anexado al TP y Visual Studio Code como IDE. Desde allí use comandos gcc para la creación del ejecutable y el txt
 
 Grupo 5
